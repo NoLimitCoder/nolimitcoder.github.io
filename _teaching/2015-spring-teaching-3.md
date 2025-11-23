@@ -1,9 +1,9 @@
 ---
-title: "Computer Networks"
+title: "Calculus"
 collection: teaching
-type: "CSCI 3171"
+type: "CSCI 1300"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Dalhousie Univeristy, Faculty of Computer Science"
-date: 2024-01-01
+date: 2023-01-01
 location: "Halifax, Canada"
 ---
